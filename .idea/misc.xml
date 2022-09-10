@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Downloads/final/app/src/main/res/layout/activity_apppermissions_setting.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Admin/Downloads/final/app/src/main/res/layout/app_item.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Admin/Downloads/final/app/src/main/res/layout/app_permisssion_item.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Admin/Downloads/final/app/src/main/res/layout/content_apppermissions_setting.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/Admin/Downloads/final/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/hooks-deleting/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/hooks-deleting/app/src/main/res/menu/activity_home_drawer.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Admin/Downloads/hooks-deleting/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/notused-resources-deleted/app/src/main/res/layout/app_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/Downloads/notused-resources-deleted/app/src/main/res/layout/app_permisssion_item.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Admin/Downloads/png-deleting/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/Downloads/png-deleting/app/src/main/res/layout/app_item.xml" value="0.13125" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

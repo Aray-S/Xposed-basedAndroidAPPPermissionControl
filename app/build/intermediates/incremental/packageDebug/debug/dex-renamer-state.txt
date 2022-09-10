@@ -1,0 +1,4 @@
+#Fri Dec 31 00:13:35 ALMT 2021
+base.0=C\:\\Users\\Admin\\Downloads\\group 16\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,267 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:2:1-25:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d2734219d53ae9dd9325d00fe3c0eb3b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1e26369331573cdcf34112af07229933\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22affa83bbcfaffe33789a85865c4b3b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:11:22-71
+application
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:13:5-55:19
+MERGED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:11:5-23:19
+MERGED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:11:5-23:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d2734219d53ae9dd9325d00fe3c0eb3b\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d2734219d53ae9dd9325d00fe3c0eb3b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22affa83bbcfaffe33789a85865c4b3b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22affa83bbcfaffe33789a85865c4b3b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:19:9-40
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:14:9-43
+meta-data#xposedmodule
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:20:9-22:36
+	android:value
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:22:13-33
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:21:13-40
+meta-data#xposeddescription
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:23:9-25:36
+	android:value
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:24:13-45
+meta-data#xposedminversion
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:26:9-28:34
+	android:value
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:28:13-31
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:27:13-44
+activity#com.app.example.ui.AppSwitchActivity
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:label
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:31:21-70
+	android:theme
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:32:21-52
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:30:21-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.app.example.ui.APPPermissionsSettingActivity
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:39:9-42:47
+	android:label
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:41:13-74
+	android:theme
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:40:13-76
+activity#com.app.example.ui.APPHooksSettingActivity
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:44:9-47:47
+	android:label
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:45:13-70
+provider#com.app.example.xposed.XhookSettingsProvider
+ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:49:9-53:39
+	android:enabled
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:52:13-35
+	android:authorities
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:51:13-59
+	android:exported
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml:50:13-72
+uses-sdk
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+MERGED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:7:5-9:41
+MERGED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d2734219d53ae9dd9325d00fe3c0eb3b\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\d2734219d53ae9dd9325d00fe3c0eb3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1e26369331573cdcf34112af07229933\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\1e26369331573cdcf34112af07229933\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22affa83bbcfaffe33789a85865c4b3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\22affa83bbcfaffe33789a85865c4b3b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\Downloads\group 16\app\src\main\AndroidManifest.xml
+service#io.objectbox.android.AndroidObjectBrowserService
+ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:13:13-76
+receiver#io.objectbox.android.AndroidObjectBrowserReceiver
+ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:16:9-22:20
+	android:exported
+		ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:17:13-77
+intent-filter#io.objectbox.action.KEEP_ALIVE
+ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:19:13-21:29
+action#io.objectbox.action.KEEP_ALIVE
+ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:20:17-73
+	android:name
+		ADDED from [io.objectbox:objectbox-android:1.4.3] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\objectbox-android-1.4.3.aar\7c7c93787438a2b0fcbeb481b0a37f22\AndroidManifest.xml:20:25-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\ea654fe9e52d36d2419824b35843c022\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f074b3aa411fede63f34ad6783c455b4\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\3d87c950c0d6dfbd719e8804dc1507fd\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2e621758286f0ed990ae6c28f2d1c640\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\1e63c9f731f6160eff8f50c2223908b7\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\3fccdebc8f565050da791ccedda7e621\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\d85c5e65a0968b1d5150c8d042983402\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\fe53e09291abbf09739ad9ad7ddf068e\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\a70d4918295cbd48c47b550aaa5908bd\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\769d0a5bc2b9410be910d7afc4553ee5\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\92708042686e820d3bdd9d54c6884bb8\AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Admin\Desktop\project\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\90ac8b9759e0be809ed0c556c7e49711\AndroidManifest.xml:27:13-51

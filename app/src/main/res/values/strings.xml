@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">权限控制</string>
+
+    <string name="str_permission">权限控制</string>
+
+    <string name="title_activity_app_switch">权限控制</string>
+    <string name="title_activity_apppermissions_setting">APPPermissionsSettingActivity</string>
+    <string name="check">选择</string>
+    <string name="uncheck">放弃</string>
+
+</resources>
