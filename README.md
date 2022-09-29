@@ -9,3 +9,5 @@ This application ListApps shows us the list of all apps that are installed on ou
 ![image](https://user-images.githubusercontent.com/62073294/192971712-853d9fcf-4a44-4032-bf7f-aed205c05337.png)
 ![image](https://user-images.githubusercontent.com/62073294/192971778-771bc5ae-5a74-45e2-a5a6-8bc77868a1b4.png)
 
+
+Similarly, you can check how othe rmethods are worked. Good luck!
